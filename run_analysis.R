@@ -1,3 +1,5 @@
+library(dplyr)
+
 run_analysis <- function() {
     
     first_merge <- function(setType) {
